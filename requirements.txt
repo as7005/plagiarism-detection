@@ -1,0 +1,6 @@
+spacy
+scikit-learn
+tensorflow
+tensorflow_hub
+nltk
+streamlit
